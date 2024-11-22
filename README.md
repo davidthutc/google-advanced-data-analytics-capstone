@@ -51,5 +51,3 @@ This project aims to predict employee turnover (retention or resignation) using 
 | XGBoost                 | 0.980               | 98.03%        | 96.67%    | 91.38% | 93.95%   |
 
 **Best Performing Models**: Random Forest and XGBoost with nearly identical metrics.
-
-## Repository Structure
